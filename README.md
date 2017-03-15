@@ -2,6 +2,8 @@
 [forumurl]: https://forum.linuxserver.io
 [ircurl]: https://www.linuxserver.io/irc/
 [podcasturl]: https://www.linuxserver.io/podcast/
+[appurl]: https://vaemendis.net/ubooquity/
+[hub]: https://hub.docker.com/r/lsioarmhf/ubooquity-aarch64/
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
@@ -12,12 +14,10 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 
 # lsioarmhf/ubooquity-aarch64
 [![](https://images.microbadger.com/badges/version/lsioarmhf/ubooquity-aarch64.svg)](https://microbadger.com/images/lsioarmhf/ubooquity-aarch64 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/ubooquity-aarch64.svg)](http://microbadger.com/images/lsioarmhf/ubooquity-aarch64 "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/ubooquity-aarch64.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/ubooquity-aarch64.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-arm64/lsioarm64-ubooquity)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-arm64/job/lsioarm64-ubooquity/)
-[hub]: https://hub.docker.com/r/lsioarmhf/ubooquity-aarch64/
 
 Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks. Use it to access your files from anywhere, with a tablet, an e-reader, a phone or a computer.
 
-[![ubooquity](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ubooquity-banner.png)][ubooquityurl]
-[ubooquityurl]: https://vaemendis.net/ubooquity/
+[![ubooquity](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/ubooquity-banner.png)][appurl]
 
 ## Usage
 
